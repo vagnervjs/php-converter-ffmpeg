@@ -12,4 +12,8 @@ $ sudo apt-get install ffmpeg
 $ su -c 'yum install ffmpeg'
 ```
 
+```bash
+$ sudo easy_install Pygments
+```
+
 Obs.: é nescessário instalar os codecs dependendo do tipo de arquivo que você for converter.
